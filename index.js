@@ -34,7 +34,7 @@ client.on('ready', async () => {
     .setAssetsLargeText('Community For Sro Games') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/789468512288112690.gif?size=44&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('SRO [RK-Community]') //Text when you hover the Small image
-    .addButton('RK-Community', 'https://discord.gg/YTQN84kRWU');
+
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "idle" }); //dnd, online, idle, offline
