@@ -26,14 +26,14 @@ client.on('ready', async () => {
     .setApplicationId('1201205173083705475')
     .setType('STREAMING')
     .setURL('https://bit.ly/RK-Community') //Must be a youtube video link 
-    .setState('SRO [RK-Community]')
-    .setName('SRO [RK-Community]')
-    .setDetails(`Community For Sro Games`)
+    .setState('No RisK No Fun')
+    .setName('No RisK No Fun')
+    .setDetails(`No RisK No Fun`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1189739975663697971/1226270558761652386/image.png?ex=6628c5b4&is=66277434&hm=c3760c92517fd74ab5d2011aeaa50901b1cbba47efff42adf098af7868bd49cc&=&format=webp&quality=lossless&width=671&height=671') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('Community For Sro Games') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/emojis/789468512288112690.gif?size=44&quality=lossless') //You can put links in tenor or discord and etc.
-    .setAssetsSmallText('SRO [RK-Community]') //Text when you hover the Small image
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/918979504620306502/1246810250724642867/discord_fake_avatar_decorations_1714175804418.gif?ex=665dbe08&is=665c6c88&hm=b56bf0be4c12d5ac8847c6fc56b0838d2252d1d13083cd18e41de93e91738f0e&=') //You can put links in tenor or discord and etc.
+    .setAssetsLargeText('No RisK No Fun') //Text when you hover the Large image
+    .setAssetsSmallImage('https://cdn.discordapp.com/emojis/1170476519135645766.gif?size=96&quality=lossless') //You can put links in tenor or discord and etc.
+    .setAssetsSmallText('No RisK No Fun') //Text when you hover the Small image
 
 
   client.user.setActivity(r);
